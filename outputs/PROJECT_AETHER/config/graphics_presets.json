@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "renderer": null,
+  "status": "NOT_STARTED",
+  "presets": [
+    {"name":"Low","available":false},
+    {"name":"Medium","available":false},
+    {"name":"High","available":false},
+    {"name":"Ultra","available":false},
+    {"name":"Cinematic","available":false},
+    {"name":"Hardware Optimized","available":false,"reason":"Requires measured renderer benchmark"},
+    {"name":"Custom","available":false}
+  ]
+}

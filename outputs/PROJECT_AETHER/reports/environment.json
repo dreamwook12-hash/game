@@ -1,0 +1,79 @@
+{
+  "observed_utc": "2026-10-17T01:36:34.4471317Z",
+  "execution_environment": "UNKNOWN: Windows host accessible; physical/virtual and intended play target not proven",
+  "os": [
+    {
+      "Caption": "Microsoft Windows 11 Home",
+      "Version": "10.0.26200",
+      "OSArchitecture": "64비트",
+      "TotalVisibleMemorySize": 15901576,
+      "FreePhysicalMemory": 6445856
+    }
+  ],
+  "host_kind": [
+    {
+      "Manufacturer": "T1LS Co., Ltd.",
+      "Model": "TMB-771900",
+      "HypervisorPresent": true,
+      "TotalPhysicalMemory": 16283213824
+    }
+  ],
+  "cpu": [
+    {
+      "Name": "AMD Ryzen 7 PRO 7745 8-Core Processor          ",
+      "NumberOfCores": 8,
+      "NumberOfLogicalProcessors": 16,
+      "MaxClockSpeed": 3801,
+      "Architecture": 9,
+      "L2CacheSize": 8192,
+      "L3CacheSize": 32768
+    }
+  ],
+  "gpu": [
+    {
+      "Name": "AMD Radeon(TM) Graphics",
+      "AdapterRAM": 536870912,
+      "DriverVersion": "32.0.21042.62",
+      "CurrentHorizontalResolution": 1920,
+      "CurrentVerticalResolution": 1080,
+      "CurrentRefreshRate": 60
+    }
+  ],
+  "disks": [
+    {
+      "DeviceID": "C:",
+      "Size": 485331300352,
+      "FreeSpace": 404619399168
+    }
+  ],
+  "storage": [
+    {
+      "MediaType": "SSD",
+      "BusType": "NVMe",
+      "Size": 512110190592
+    }
+  ],
+  "tools_on_path": [
+    {
+      "Name": "git.exe",
+      "Source": "C:\\Users\\USER-T1\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\git\\cmd\\git.exe"
+    },
+    {
+      "Name": "python.exe",
+      "Source": "C:\\Users\\USER-T1\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
+    },
+    {
+      "Name": "node.exe",
+      "Source": "C:\\Users\\USER-T1\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe"
+    }
+  ],
+  "unknown": [
+    "Dedicated/shared VRAM split",
+    "GPU temperature/power",
+    "HDR/VRR",
+    "Native display mode",
+    "Ray tracing API capability",
+    "Actual renderer performance",
+    "Target device identity"
+  ]
+}
